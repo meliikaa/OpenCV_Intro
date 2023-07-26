@@ -31,4 +31,4 @@ Working with Matrices: This section covers the concept of matrices, their repres
 Face Detection with Mouth and Eye Libraries: Here, we explore face detection using the Mouth and Eye libraries. We will implement face detection algorithms and showcase practical applications.
 
 Jupyter Notebook Widgets with ipywebrtc: This section demonstrates some interactions with Jupyter Notebook widgets using ipywebrtc. It showcases how to create interactive interfaces for computer vision tasks.
-![image](https://github.com/meliikaa/OpenCV_Intro/assets/111120849/4ea9c71e-4c59-404f-ad1d-5e27df45b62e)
+![image](https://github.com/meliikaa/OpenCV_Intro/assets/111120849/98a71b48-7ef1-4655-91df-5f9e0aedf50d)
