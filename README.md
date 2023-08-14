@@ -1,4 +1,4 @@
-# OpenCV_Intro
+# OpenCV_Intro(Face Detection)
 OpenCV and ndarray Introductory Project
 This GitHub repository contains an introductory project that explores the fundamentals of OpenCV, ndarray, and how matrices work. The project also utilizes the Mouth and Eye libraries to detect faces, and demonstrates some work with Jupyter Notebook widgets using ipywebrtc.
 
